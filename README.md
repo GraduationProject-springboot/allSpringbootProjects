@@ -8,7 +8,7 @@
 
 | 序号 | 项目                                                         | github地址| blog地址| video地址|
 | ---- | ------------------------------------------------------------ | --------------------------------------------------------- |--|--|
-| 0000 | **在线拍卖系统** | [在线拍卖系统](https://github.com/GraduationProject-springboot/0000springboot) | [在线拍卖系统](https://chenqi199.github.io/0000springboot在线拍卖系统/) | [在线拍卖系统](null) |
+| 0000 | **在线拍卖系统** | [在线拍卖系统](https://github.com/GraduationProject-springboot/0000springboot) | [在线拍卖系统](https://chenqi199.github.io/0000springboot在线拍卖系统/) | [在线拍卖系统](https://player.bilibili.com/player.html?isOutside=true&aid=BV16ia6epENY&bvid=BV16ia6epENY&cid=500001610541735&p=1) |
 | 0001 | **医护人员排班系统** | [医护人员排班系统](https://github.com/GraduationProject-springboot/0001springboot) | [医护人员排班系统](https://chenqi199.github.io/0001springboot医护人员排班系统/) | [医护人员排班系统](https://player.bilibili.com/player.html?isOutside=true&aid=BV16ia6epENY&bvid=BV16ia6epENY&cid=500001610566309&p=2) |
 | 0002 | **图书个性化推荐系统的设计与实现** | [图书个性化推荐系统的设计与实现](https://github.com/GraduationProject-springboot/0002springboot) | [图书个性化推荐系统的设计与实现](https://chenqi199.github.io/0002springboot图书个性化推荐系统的设计与实现/) | [图书个性化推荐系统的设计与实现](https://player.bilibili.com/player.html?isOutside=true&aid=BV16ia6epENY&bvid=BV16ia6epENY&cid=500001610566283&p=3) |
 | 0003 | **网页时装购物系统** | [网页时装购物系统](https://github.com/GraduationProject-springboot/0003springboot) | [网页时装购物系统](https://chenqi199.github.io/0003springboot网页时装购物系统/) | [网页时装购物系统](https://player.bilibili.com/player.html?isOutside=true&aid=BV16ia6epENY&bvid=BV16ia6epENY&cid=500001610566505&p=4) |

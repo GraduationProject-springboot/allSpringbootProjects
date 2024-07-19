@@ -649,6 +649,211 @@
 | 0641 | **饮食分享平台--论文** | [饮食分享平台--论文](https://github.com/GraduationProject-springboot/0641springboot) | [饮食分享平台--论文](https://chenqi199.github.io/0641springboot饮食分享平台--论文/) | [饮食分享平台--论文](https://player.bilibili.com/player.html?isOutside=true&aid=BV1eMbYemE1U&bvid=BV1eMbYemE1U&cid=500001618835849&p=137) |
 | 0642 | **驾校管理系统** | [驾校管理系统](https://github.com/GraduationProject-springboot/0642springboot) | [驾校管理系统](https://chenqi199.github.io/0642springboot驾校管理系统/) | [驾校管理系统](https://player.bilibili.com/player.html?isOutside=true&aid=BV1eMbYemE1U&bvid=BV1eMbYemE1U&cid=500001618835945&p=138) |
 | 0643 | **高校学生饮食推荐系统_02187** | [高校学生饮食推荐系统_02187](https://github.com/GraduationProject-springboot/0643springboot) | [高校学生饮食推荐系统_02187](https://chenqi199.github.io/0643springboot高校学生饮食推荐系统_02187/) | [高校学生饮食推荐系统_02187](https://player.bilibili.com/player.html?isOutside=true&aid=BV1eMbYemE1U&bvid=BV1eMbYemE1U&cid=500001618835983&p=139) |
+| 00641 | [springboot“漫画之家”系统--论文]()   |                                          | | |
+| 00642 | [springboot班级综合测评管理系统--论文]()   |                                          | | |
+| 00643 | [springboot大学生就业服务平台]()   |                                          | | |
+| 00644 | [springboot大学生体质测试管理系统--论文]()   |                                          | | |
+| 00645 | [springboot电子招投标系统]()   |                                          | | |
+| 00646 | [springboot高校食堂移动预约点餐系统]()   |                                          | | |
+| 00647 | [springboot基于SpringBoot的冬奥会科普平台--论文]()   |                                          | | |
+| 00648 | [springboot基于Web的社区医院管理服务系统--论文]()   |                                          | | |
+| 00649 | [springboot家乡特色推荐系统--论文]()   |                                          | | |
+| 00650 | [springboot家政服务管理平台--论文]()   |                                          | | |
+| 00651 | [springboot留守儿童爱心网站--论文]()   |                                          | | |
+| 00652 | [springboot农机电招平台--论文]()   |                                          | | |
+| 00653 | [springboot乒乓球预约管理系统]()   |                                          | | |
+| 00654 | [springboot摄影跟拍预定管理系统--论文]()   |                                          | | |
+| 00655 | [springboot私人健身与教练预约管理系统--论文]()   |                                          | | |
+| 00656 | [springboot校园在线拍卖系统]()   |                                          | | |
+| 00657 | [springboot学生成绩管理系统--论文]()   |                                          | | |
+| 00658 | [springboot医院信管系统--论文]()   |                                          | | |
+| 00659 | [springboot智慧党建系统]()   |                                          | | |
+| 00660 | [springboot在线考试--论文]()   |                                          | | |
+| 00661 | [springbootjava学习平台--论文]()   |                                          | | |
+| 00662 | [springboot4S店车辆管理系统--论文]()   |                                          | | |
+| 00663 | [springboot学生综合成绩测评系统]()   |                                          | | |
+| 00664 | [springboot学生综合测评系统--论文]()   |                                          | | |
+| 00665 | [springboot“智慧食堂”设计与实现--论文]()   |                                          | | |
+| 00666 | [springboot一起来约苗系统]()   |                                          | | |
+| 00667 | [springboot乐校园二手书交易管理系统--论文]()   |                                          | | |
+| 00668 | [springboot书籍学习平台--论文]()   |                                          | | |
+| 00669 | [springboot人事管理系统--论文]()   |                                          | | |
+| 00670 | [springboot企业客户信息反馈平台--论文]()   |                                          | | |
+| 00671 | [springboot休闲娱乐代理售票系统--论文]()   |                                          | | |
+| 00672 | [springboot会员制医疗预约服务管理信息系统--论文]()   |                                          | | |
+| 00673 | [springboot体育场馆运营]()   |                                          | | |
+| 00674 | [springboot分布式架构网上商城--论文]()   |                                          | | |
+| 00675 | [springboot医患档案管理系统]()   |                                          | | |
+| 00676 | [springboot医院固定资产系统]()   |                                          | | |
+| 00677 | [springboot原创歌曲分享平台--论文]()   |                                          | | |
+| 00678 | [springboot在线外卖系统]()   |                                          | | |
+| 00679 | [springboot在线小说阅读平台]()   |                                          | | |
+| 00680 | [springboot地方废物回收机构管理系统--论文]()   |                                          | | |
+| 00681 | [springboot基于Java的超市进销存系统--论文]()   |                                          | | |
+| 00682 | [springboot基于Spring Boot的在线考试系统--论文]()   |                                          | | |
+| 00683 | [springboot基于SpringBoot的CSGO赛事管理系统--论文]()   |                                          | | |
+| 00684 | [springboot基于Springboot的漫画网站--论文]()   |                                          | | |
+| 00685 | [springboot基于vue的MOBA类游戏攻略分享平台--论文]()   |                                          | | |
+| 00686 | [springboot基于vue的地方美食分享网站--论文]()   |                                          | | |
+| 00687 | [springboot基于web的智慧养老平台--论文]()   |                                          | | |
+| 00688 | [springboot基于协同过滤算法商品推荐系统]()   |                                          | | |
+| 00689 | [springboot大学生租房系统--论文]()   |                                          | | |
+| 00690 | [springboot学生就业管理系统--论文]()   |                                          | | |
+| 00691 | [springboot学生考勤管理系统--论文]()   |                                          | | |
+| 00692 | [springboot学生选课系统]()   |                                          | | |
+| 00693 | [springboot家具商城系统]()   |                                          | | |
+| 00694 | [springboot小学家校一体“作业帮”的设计与实现]()   |                                          | | |
+| 00695 | [springboot就业信息管理系统--论文]()   |                                          | | |
+| 00696 | [springboot广场舞团--论文]()   |                                          | | |
+| 00697 | [springboot应急救援物资管理系统]()   |                                          | | |
+| 00698 | [springboot招生管理系统--论文]()   |                                          | | |
+| 00699 | [springboot招聘信息管理系统--论文]()   |                                          | | |
+| 00700 | [springboot数码论坛系统设计与实现--论文]()   |                                          | | |
+| 00701 | [springboot时间管理系统--论文]()   |                                          | | |
+| 00702 | [springboot智慧外贸平台--论文]()   |                                          | | |
+| 00703 | [springboot智能热度分析和自媒体推送平台]()   |                                          | | |
+| 00704 | [springboot校友社交系统--论文]()   |                                          | | |
+| 00705 | [springboot校园交友网站--论文]()   |                                          | | |
+| 00706 | [springboot校园医疗保险管理系统]()   |                                          | | |
+| 00707 | [springboot校园台球厅人员与设备管理系统--论文]()   |                                          | | |
+| 00708 | [springboot校园志愿者管理系统--论文]()   |                                          | | |
+| 00709 | [springboot校园疫情防控系统--论文]()   |                                          | | |
+| 00710 | [springboot桥牌计分系统]()   |                                          | | |
+| 00711 | [springboot沁园健身房预约管理系统]()   |                                          | | |
+| 00712 | [springboot游戏分享网站--论文]()   |                                          | | |
+| 00713 | [springboot生鲜交易系统--论文]()   |                                          | | |
+| 00714 | [springboot生鲜超市管理的设计与实现]()   |                                          | | |
+| 00715 | [springboot疫情防控期间某村外出务工人员信息管理系统--论文]()   |                                          | | |
+| 00716 | [springboot疫苗接种管理系统]()   |                                          | | |
+| 00717 | [springboot社区疫情防控平台]()   |                                          | | |
+| 00718 | [springboot福聚苑社区团购]()   |                                          | | |
+| 00719 | [springboot篮球竞赛预约平台--论文]()   |                                          | | |
+| 00720 | [springboot篮球论坛系统--论文]()   |                                          | | |
+| 00721 | [springboot线上买菜系统]()   |                                          | | |
+| 00722 | [springboot结合疫情情况的婚恋系统]()   |                                          | | |
+| 00723 | [springboot网上书城--论文]()   |                                          | | |
+| 00724 | [springboot网上图书商城--论文]()   |                                          | | |
+| 00725 | [springboot网吧管理系统--论文]()   |                                          | | |
+| 00726 | [springboot自媒体社区平台]()   |                                          | | |
+| 00727 | [springboot致远汽车租赁系统--论文]()   |                                          | | |
+| 00728 | [springboot藏区特产销售平台--论文]()   |                                          | | |
+| 00729 | [springboot财务管理系统--论文]()   |                                          | | |
+| 00730 | [springboot车辆充电桩--论文]()   |                                          | | |
+| 00731 | [springboot逍遥大药房管理系统--论文]()   |                                          | | |
+| 00732 | [springboot驾校管理系统]()   |                                          | | |
+| 00733 | [springboot高校党务系统]()   |                                          | | |
+| 00734 | [springboot实习管理系统--论文]()   |                                          | | |
+| 00735 | [springboot闲一品]()   |                                          | | |
+| 00736 | [springboot毕业生信息招聘平台]()   |                                          | | |
+| 00737 | [springboot餐厅点餐系统]()   |                                          | | |
+| 00738 | [springboot二手交易平台]()   |                                          | | |
+| 00739 | [springboot职称评审管理系统]()   |                                          | | |
+| 00740 | [springboot简历系统]()   |                                          | | |
+| 00741 | [springboot旧物置换网站]()   |                                          | | |
+| 00742 | [springboot论坛管理系统]()   |                                          | | |
+| 00743 | [springboot旅游管理系统]()   |                                          | | |
+| 00744 | [springboot汽车租赁系统]()   |                                          | | |
+| 00745 | [springboot人职匹配推荐系统]()   |                                          | | |
+| 00746 | [springboot社区维修平台]()   |                                          | | |
+| 00747 | [springboot网上商城购物系统]()   |                                          | | |
+| 00748 | [springbootSpringboot的小区物业管理系统]()   |                                          | | |
+| 00749 | [springboot校园新闻网站]()   |                                          | | |
+| 00750 | [springboot新生宿舍管理系统]()   |                                          | | |
+| 00751 | [springboot学生毕业离校系统]()   |                                          | | |
+| 00752 | [springboot疫情网课管理系统]()   |                                          | | |
+| 00753 | [springboot影城管理系统]()   |                                          | | |
+| 00754 | [springboot幼儿园管理系统]()   |                                          | | |
+| 00755 | [springboot准妈妈孕期交流平台]()   |                                          | | |
+| 00756 | [springboot自习室预订系统]()   |                                          | | |
+| 00757 | [springboot租房网站]()   |                                          | | |
+| 00758 | [springboot点餐平台网站]()   |                                          | | |
+| 00759 | [springboot在线动漫信息平台]()   |                                          | | |
+| 00760 | [springboot家具销售电商平台]()   |                                          | | |
+| 00761 | [springboot教师人事档案管理系统]()   |                                          | | |
+| 00762 | [springboot考研资讯平台]()   |                                          | | |
+| 00763 | [springboot口腔管家平台]()   |                                          | | |
+| 00764 | [springboot垃圾分类网站]()   |                                          | | |
+| 00765 | [springboot旅游管理系统]()   |                                          | | |
+| 00766 | [springboot汽车租赁系统]()   |                                          | | |
+| 00767 | [springboot商务安全邮箱邮件收发]()   |                                          | | |
+| 00768 | [springboot火车订票管理系统]()   |                                          | | |
+| 00769 | [springboot实验室管理系统]()   |                                          | | |
+| 00770 | [springboot体质测试数据分析及可视化设计]()   |                                          | | |
+| 00771 | [springboot外卖点餐系统]()   |                                          | | |
+| 00772 | [springboot校园博客系统]()   |                                          | | |
+| 00773 | [springboot校园闲置物品交易网站]()   |                                          | | |
+| 00774 | [springboot校园闲置物品租售系统]()   |                                          | | |
+| 00775 | [springboot校园疫情防控系统]()   |                                          | | |
+| 00776 | [springboot心灵治愈交流平台]()   |                                          | | |
+| 00777 | [springboot医疗服务系统]()   |                                          | | |
+| 00778 | [springboot医院急诊系统]()   |                                          | | |
+| 00779 | [springboot音乐翻唱与分享平台]()   |                                          | | |
+| 00780 | [springboot在线BLOG网]()   |                                          | | |
+| 00781 | [springboot在线答疑系统文件]()   |                                          | | |
+| 00782 | [springboot交流互动系统(1)]()   |                                          | | |
+| 00783 | [springboot大学生社团活动平台]()   |                                          | | |
+| 00784 | [springboot民宿管理平台]()   |                                          | | |
+| 00785 | [springboot汉服推广网站]()   |                                          | | |
+| 00786 | [springboot家具网站]()   |                                          | | |
+| 00787 | [springboot酒店管理系统]()   |                                          | | |
+| 00788 | [springboot某银行OA系统]()   |                                          | | |
+| 00789 | [springbootspringcloud房产销售平台]()   |                                          | | |
+| 00790 | [springboot滴答拍摄影项目]()   |                                          | | |
+| 00791 | [springboot线上教学平台]()   |                                          | | |
+| 00792 | [springboot+vue+redis前后端分离 爱家商城项目(源码+sql)]()   |                                          | | |
+| 00793 | [springbootJava Springboot+VUE前后端分离手机商城平台项目（源码+sql）]()   |                                          | | |
+| 00794 | [Java springboot+vue疫情防疫管理系统系统（源码+完整论文以及各种报告）]()   |                                          | | |
+| 00795 | [springbootJavaSpringboot+vue图书购物商城管理系统（源码+sql+论文）]()   |                                          | | |
+| 00796 | [springbootJavaSpringboot+vur前后端分离党员信息管理系统（源码+sql+论文）]()   |                                          | | |
+| 00797 | [springbootJava定制前后端分离学生信息管理系统（spring boot+vue）]()   |                                          | | |
+| 00798 | [springboot+vue+redis前后端分离网上商城项目（源码+sql）]()   |                                          | | |
+| 00799 | [springbootSpringboot+vue疫情信息管理系统(源码)]()   |                                          | | |
+| 00800 | [springbootSpringboot+vue绝对精美风的音乐网站系统]()   |                                          | | |
+| 00801 | [java项目25期基于springboot+layui实现的医院]()   |                                          | | |
+| 00802 | [springboot 电商书城平台系统(已调试)]()   |                                          | | |
+| 00803 | [springboot个人博客项目]()   |                                          | | |
+| 00804 | [springboot大学生活动社团管理系统（完整运行版本）]()   |                                          | | |
+| 00805 | [springbootJava SpringBoot个人理财系统（源码+sql）]()   |                                          | | |
+| 00806 | [springbootjava Springboot网上音乐商城（源码+sql+论文）]()   |                                          | | |
+| 00807 | [springbootJavaSpringboot学生教务管理系统（源码+sql+文档）]()   |                                          | | |
+| 00808 | [springbootJavaSpringboot就业管理系统（源码+sql）]()   |                                          | | |
+| 00809 | [springboot layui  装修验收管理系统(源码+sql)]()   |                                          | | |
+| 00810 | [springbootSpringBoot OA办公权限管理系统（源码+sql）]()   |                                          | | |
+| 00811 | [springboot SSM 宠物医院管理系统(源码+论文)]()   |                                          | | |
+| 00812 | [springboot 学生成绩请假信息管理系统（源码+sql）]()   |                                          | | |
+| 00813 | [springboot 小区车位管理系统(源码+sql)]()   |                                          | | |
+| 00814 | [springboot 网站建设服务系统(源码+sql)]()   |                                          | | |
+| 00815 | [springboot 酒庄内部管理系统（源码+sql+论文）]()   |                                          | | |
+| 00816 | [springboot+layui仓库管理系统（源码+sql）]()   |                                          | | |
+| 00817 | [springboot+mysql网上家具商城(源码+sql+论文报告)]()   |                                          | | |
+| 00818 | [springboot+redis水果超市商城系统（源码+sql+论文报告）]()   |                                          | | |
+| 00819 | [springboot二手商品商城平台（源码+sql +论文）]()   |                                          | | |
+| 00820 | [springboot健身房管理系统（源码+sql）]()   |                                          | | |
+| 00821 | [springboot博客论坛系统(源码+数据库+设计报告)]()   |                                          | | |
+| 00822 | [springboot在线旅游网站系统(源码+sql)]()   |                                          | | |
+| 00823 | [springboot城市地名地址信息管理系统（源码+sql）]()   |                                          | | |
+| 00824 | [springboot大学生社团管理系统(源码+sql+论文报告)]()   |                                          | | |
+| 00825 | [springboot大学生竞赛项目过程管理系统(源码+sql)]()   |                                          | | |
+| 00826 | [springboot婚纱摄影系统（源码+sql）]()   |                                          | | |
+| 00827 | [springboot抗疫物质管理系统（源码+sql+论文）]()   |                                          | | |
+| 00828 | [springboot旅游信息管理系统（源码+sql）]()   |                                          | | |
+| 00829 | [springboot景区寄存管理系统（源码+sql+论文报告）]()   |                                          | | |
+| 00830 | [springboot智慧生活分享平台62（源码+sql+论文）]()   |                                          | | |
+| 00831 | [springboot汽车配件管理系统(源码+sql+论文报告)]()   |                                          | | |
+| 00832 | [springboot生活分享共享平台（源码+论文）]()   |                                          | | |
+| 00833 | [springboot网上宠物用品商城系统（源码+sql+论文报告）]()   |                                          | | |
+| 00834 | [springbootSpringBoot网上水果蔬菜商城系统（源码+sql）]()   |                                          | | |
+| 00835 | [springboot网上酒类商城系统(源码+论文报告)]()   |                                          | | |
+| 00836 | [springbootSpringBoot美容院预约管理系统（源码+sql）]()   |                                          | | |
+| 00837 | [springboot美食生活分享平台（源码+论文报告）]()   |                                          | | |
+| 00838 | [springboot美食菜谱分享平台优化版（源码+sql+论文报告）]()   |                                          | | |
+| 00839 | [springboot蛋糕商城项目（y源码+sql）]()   |                                          | | |
+| 00840 | [springboot课设推荐交流系统(源码+sql+部署说明)]()   |                                          | | |
+| 00841 | [springboot通用版商城项目（源码+sql）]()   |                                          | | |
+| 00842 | [springboot酒类商城项目xf(源码+sql)]()   |                                          | | |
+| 00843 | [springboot高校跳蚤市场平台（源码+论文报告）]()   |                                          | | |
+| 00844 | [springboot已调试Springboot电影院售票管理系统前台+后台]()   |                                          | | |
+
 
 
 

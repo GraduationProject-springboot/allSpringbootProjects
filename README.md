@@ -1,8 +1,5 @@
 # 毕业设计和论文辅导
-# [搜索更多项目](https://chenqi1990.site/)
-#  [查看全部项目](/all_project.md)
 ### QQ：462201886 微信：chen_q123456 (支持修改、 部署调试、讲解 代做毕设)
-
 # [项目清单 包安装运行](http://chenqi1990.site) 快速搜索地址 http://chenqi1990.site
 ## 代码部署 讲解 程序定制 扫码联系 ▼ ▼ ▼
 ![picture](https://raw.githubusercontent.com/GraduationProject-springboot/.github/main/img/wx.png)
